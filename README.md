@@ -1,0 +1,2 @@
+# Diabetic-Retinopathy-Using-Deep-Learning-methods
+detect the various stages of DR that allows ophthalmologists to identify the DR at its different stage. The proposed system classifies the image data into defined classes using machine learning and deep learning algorithms such as SVM, Random Forest, Decision Tree, YOLO (You Only Look Once) and YOLO-RF. We have used data from the retinal fundus images of KAGGLE and IDRID. The proposed system showed that YOLO-RF model performed with good accuracy 
